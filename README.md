@@ -1,6 +1,6 @@
 ![The American University of Paris](https://upload.wikimedia.org/wikipedia/en/4/4c/American_University_of_Paris.png)
 # Syllabus Fall 2017
-## Web Applications
+## Fundamental Methods of Data Science (CS2091)
 
 * **Course Number:** CS2091
 * **Professor:** Tomer Libal
