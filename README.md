@@ -27,9 +27,10 @@ the above flow and will apply them to real-world examples.
 
 ### Calendar
 
-| Week (Dates)  | Topic   | Lecture  | Reading  | Reading  |
+| Week (Dates)  | Topic   | Lecture  | Reading  | Assignment  |
 |---|---|---|---|---|
-| 1 (21,24/1)  |   |   |   |   |
+| 1 (21,24/1)  |   |   |
+[1](https://aup-cs2091.github.io/textbook/chapters/01/what-is-data-science),[2](https://aup-cs2091.github.io/textbook/chapters/02/causality-and-experiments),[3](https://aup-cs2091.github.io/textbook/chapters/03/programming-in-python)  | Lab 1, HW 1 (due 25/1)  |
 | 2 (28,31/1)  |   |   |   |   |
 | 3 (4,7/2)  |   |   |   |   |
 | 4 (11,14/2)  |   |   |   |   |
@@ -42,6 +43,7 @@ the above flow and will apply them to real-world examples.
 | 11 (25/4)  |   |   |   |   |
 | 12 (29/4,2/5)  |   |   |   |   |
 | 13 (6/5)  |   |   |   |   |
+| (6/5)  | final)  |   |   |   |
 
 ### Attendance Policy
 Attendance is mandatory in all classes and attendance affects the grade. In case of four unexcused absents, a grade of "F" is automatically given.
