@@ -64,11 +64,11 @@ Students must be mindful of this policy when making their travel
 arrangements, and especially during the Drop/Add and Exam Periods.
 
 ### Grading Policy
-* 10% Midterm exam
-* 30% Final exam
+* 20% Midterm exam
 * 10% Lab
 * 20% Homework
-* 30% Projects
+* 20% Projects 1 and 2
+* 30% Final project and exam
 
 ### Learning Outcome
 Students will learn in parallel the fundamental ideas of Data Science as
