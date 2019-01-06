@@ -1,12 +1,12 @@
 ![The American University of Paris](https://upload.wikimedia.org/wikipedia/en/4/4c/American_University_of_Paris.png)
-# Syllabus Fall 2017
-## Fundamental Methods of Data Science (CS2091)
+# Syllabus Spring 2019
+## DATA SCIENCE THEORY AND PRACTICE (CS2091)
 
 * **Course Number:** CS2091
 * **Professor:** Tomer Libal
 * **Office:** SD-09
-* **Office Hours:** By appointment on [Calendly](https://calendly.com/tlibal)
-* **Class Schedule:** Tue/Fri 15:20-16:40
+* **Office Hours:** By appointment
+* **Class Schedule:** Mon/Thu 15:20-16:40
 * **Credits:** 4
 
 ### Course Description
@@ -23,8 +23,25 @@ the above flow and will apply them to real-world examples.
 
 ### Resources
 
-* **Text book:**
-    * REQUIRED: Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking by Foster Provost and Tom Fawcett (DSB)
+* **Text book:** [Computational and Inferential Thinking](https://aup-cs2091.github.io/textbook/)
+
+### Calendar
+
+| Week (Dates)  | Topic   | Lecture  | Reading  | Reading  |
+|---|---|---|---|---|
+| 1 (21,24/1)  |   |   |   |   |
+| 2 (28,31/1))  |   |   |   |   |
+| 3 (4,7/2))  |   |   |   |   |
+| 4 (11,14/2))  |   |   |   |   |
+| 5 (18,21/2))  |   |   |   |   |
+| 6 (25,28/2))  |   |   |   |   |
+| 7 (18,21/3))  | (midterm)  |   |   |   |
+| 8 (1,4/4))  |   |   |   |   |
+| 9 (8,11/4))  |   |   |   |   |
+| 10 (15,18/4))  |   |   |   |   |
+| 11 (25/4))  |   |   |   |   |
+| 12 (29/4,2/5))  |   |   |   |   |
+| 13 (6/5))  |   |   |   |   |
 
 ### Attendance Policy
 Attendance is mandatory in all classes and attendance affects the grade. In case of four unexcused absents, a grade of "F" is automatically given.
@@ -45,10 +62,11 @@ Students must be mindful of this policy when making their travel
 arrangements, and especially during the Drop/Add and Exam Periods.
 
 ### Grading Policy
-* 10% midterm
-* 20% participation and attendance
-* 40% exercises
-* 30% project
+* 10% Midterm exam
+* 30% Final exam
+* 10% Lab
+* 20% Homework
+* 30% Projects
 
 ### Learning Outcome
 Students will learn in parallel the fundamental ideas of Data Science as
