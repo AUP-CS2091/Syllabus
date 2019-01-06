@@ -30,18 +30,18 @@ the above flow and will apply them to real-world examples.
 | Week (Dates)  | Topic   | Lecture  | Reading  | Reading  |
 |---|---|---|---|---|
 | 1 (21,24/1)  |   |   |   |   |
-| 2 (28,31/1))  |   |   |   |   |
-| 3 (4,7/2))  |   |   |   |   |
-| 4 (11,14/2))  |   |   |   |   |
-| 5 (18,21/2))  |   |   |   |   |
-| 6 (25,28/2))  |   |   |   |   |
-| 7 (18,21/3))  | (midterm)  |   |   |   |
-| 8 (1,4/4))  |   |   |   |   |
-| 9 (8,11/4))  |   |   |   |   |
-| 10 (15,18/4))  |   |   |   |   |
-| 11 (25/4))  |   |   |   |   |
-| 12 (29/4,2/5))  |   |   |   |   |
-| 13 (6/5))  |   |   |   |   |
+| 2 (28,31/1)  |   |   |   |   |
+| 3 (4,7/2)  |   |   |   |   |
+| 4 (11,14/2)  |   |   |   |   |
+| 5 (18,21/2)  |   |   |   |   |
+| 6 (25,28/2)  |   |   |   |   |
+| 7 (18,21/3)  | (midterm)  |   |   |   |
+| 8 (1,4/4)  |   |   |   |   |
+| 9 (8,11/4)  |   |   |   |   |
+| 10 (15,18/4)  |   |   |   |   |
+| 11 (25/4)  |   |   |   |   |
+| 12 (29/4,2/5)  |   |   |   |   |
+| 13 (6/5)  |   |   |   |   |
 
 ### Attendance Policy
 Attendance is mandatory in all classes and attendance affects the grade. In case of four unexcused absents, a grade of "F" is automatically given.
