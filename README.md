@@ -24,7 +24,8 @@ the above flow and will apply them to real-world examples.
 ### Resources
 
 * **Text book:** [Computational and Inferential Thinking](https://aup-cs2091.github.io/textbook/)
-* [Python reference](reference.html)
+* [Python
+  reference](https://aup-cs2091.github.io/Syllabus/reference.html)
 
 ### Calendar
 
