@@ -39,7 +39,7 @@ the above flow and will apply them to real-world examples.
 | 6 (25,28/2)  | Models, Comparing distributions, Decisions and Uncertainty | [Class 11](https://jhub.aup.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2091%2Fclass&urlpath=notebooks%2Fclass%2Fweek6%2Fclass11.ipynb) [Class 12](https://jhub.aup.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2091%2Fclass&urlpath=notebooks%2Fclass%2Fweek6%2Fclass12.ipynb) | [11](https://aup-cs2091.github.io/textbook/chapters/11/Testing_Hypotheses)  | Lab 6, HW 6 (due 20/3)  |
 | (18/3)  | Midterm exam  |   |   |   |
 | 7 (21/3)  | A/B Testing  | [Class 13](https://jhub.aup.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2091%2Fclass&urlpath=notebooks%2Fclass%2Fweek7%2Fclass13.ipynb)  | [12](https://aup-cs2091.github.io/textbook/chapters/12/Comparing_Two_Samples) |HW 7 (due 27/3) |
-| 8 (1,4/4)  | Causality, Confidence intervals, Interpreting Confidence|   | [13](https://aup-cs2091.github.io/textbook/chapters/13/Estimation)| Lab 7, HW 8 (due 3/4), Project 2 (due 18/4) |
+| 8 (1,4/4)  | Causality, Confidence intervals, Interpreting Confidence| [Class 15](https://jhub.aup.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2091%2Fclass&urlpath=notebooks%2Fclass%2Fweek8%2Fclass15.ipynb)  | [13](https://aup-cs2091.github.io/textbook/chapters/13/Estimation)| Lab 7, HW 8 (due 3/4), Project 2 (due 18/4) |
 | 10 (8,11/4)  | Center and Spread, The Normal Distribution, Sample Means, Designing Experiments  |   |   | HW 9  |
 | 11 (15,18/4)  | Correlation, Linear Regression  |   |  | Lab 8  |
 | 12 (25/4)  | Least Squares, Residuals, Regression Inference  |   |  | Lab 9, HW 10, Final project  |
